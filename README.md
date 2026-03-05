@@ -1,4 +1,5 @@
-<h2>I'm Sarvesh Deshmukh</h2>
+<h1 align ="center"> 
+I'm Sarvesh Deshmukh</h1>
 
 ### 👋 About Me<br><br>
 🎓 I am a **BCA 2nd Year student** studying at **SEMCOM, CVM University**.<br>💻 I enjoy learning web development and building practical projects to improve my programming skills.<br><br>🔭 **I’m currently working on:**<br><br>* Improving my web development skills<br>* Building projects with better coding practices and real understanding<br><br>🌱 **I’m currently learning:**<br><br>* Backend development with **PHP & MySQL**<br>* Writing projects without fully depending on AI<br><br>👨‍💻 **Projects I’ve built:**<br><br>* **Police Department Management System** – A semester 4 project built using **HTML, CSS, PHP, and MySQL**<br>* **Idol Painting Online Store** – A practice e-commerce style project<br><br>🛠 **Languages & Technologies:**<br><br>* HTML<br>* CSS<br>* JavaScript<br>* PHP<br>* SQL (MySQL)<br>* C<br>* C++<br><br>🎯 **Goal:**<br>To become a skilled developer by building real-world projects and improving my problem-solving abilities.<br><br>⚡ **Fun fact:**<br>I like experimenting with new project ideas and learning by building things.<br><br>### 📫 Connect with me<br>- LinkedIn:  https://www.linkedin.com/in/sarvesh-deshmukh-4370a6355/
